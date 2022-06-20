@@ -1,7 +1,3 @@
-<h1 align="center">
-Pradeep1991Singh
-</h1>
-
 ## Hi, there! 👋
 My name is Pradeep Singh!
 
