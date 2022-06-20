@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Pradeep1991Singh" />
+</h1>
 
-<!--
-**pradeep1991singh/pradeep1991singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, there! 👋
+My name is Pradeep Singh!
 
-Here are some ideas to get you started:
+## Skills
+- 👨‍💻 TypeScript, JavaScript, NodeJs
+- ⚙️ React, React-native, Vue
+- 👁️ SASS, CSS
+- 💽 MySQL, SQL, Mongo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- [@pradeep91singh](https://twitter.com/pradeep91singh) on Twitter
