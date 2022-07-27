@@ -2,7 +2,7 @@
 My name is Pradeep Singh!
 
 ## Skills
-- All FullStack using frontend stack 👨‍💻 
+- FullStack 👨‍💻 
 
 ## Contact
 - [@pradeep91singh](https://twitter.com/pradeep91singh) on Twitter
