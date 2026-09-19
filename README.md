@@ -2,7 +2,8 @@
 
 # 👨‍💻 About Me:
 I am passionate to work with new technologies and challenges. Working as a software professional with over 10+ years of experience in the software industry in building hybrid, scalable, high- performance and rock-solid softwares and applications.
-[!pradeep.sisodias.com](https://pradeep.sisodias.com) 
+
+[pradeep.sisodias.com](https://pradeep.sisodias.com) 
 
 
 ## 🌐 Socials:
